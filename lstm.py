@@ -15,7 +15,7 @@ import tensorflow as tf
 import matplotlib.pyplot as plt
 import os
 import json
-from utils import Predictor, Prediction, Type
+#from utils import Predictor, Prediction, Type
 from utils import get_label_mapping, get_labeled_paths, append_path, build_request_trace
 from utils import remove_active_element, cutoff_behind_active_element
 import time
